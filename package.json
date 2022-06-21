@@ -1,0 +1,14 @@
+{
+  "name": "@xianwu/simple-force-directed-graph-network-graph",
+  "main": "ffdf5b6c3178c7c5@66.js",
+  "version": "66.0.0",
+  "homepage": "https://observablehq.com/@xianwu/simple-force-directed-graph-network-graph",
+  "author": {
+    "name": "xianwu",
+    "url": "https://observablehq.com/@xianwu"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
